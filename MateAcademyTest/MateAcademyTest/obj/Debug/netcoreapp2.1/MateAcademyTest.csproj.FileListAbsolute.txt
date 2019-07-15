@@ -1,0 +1,11 @@
+C:\Users\aline\source\repos\MateAcademyTest\MateAcademyTest\bin\Debug\netcoreapp2.1\MateAcademyTest.deps.json
+C:\Users\aline\source\repos\MateAcademyTest\MateAcademyTest\bin\Debug\netcoreapp2.1\MateAcademyTest.runtimeconfig.json
+C:\Users\aline\source\repos\MateAcademyTest\MateAcademyTest\bin\Debug\netcoreapp2.1\MateAcademyTest.runtimeconfig.dev.json
+C:\Users\aline\source\repos\MateAcademyTest\MateAcademyTest\bin\Debug\netcoreapp2.1\MateAcademyTest.dll
+C:\Users\aline\source\repos\MateAcademyTest\MateAcademyTest\bin\Debug\netcoreapp2.1\MateAcademyTest.pdb
+C:\Users\aline\source\repos\MateAcademyTest\MateAcademyTest\obj\Debug\netcoreapp2.1\MateAcademyTest.csprojAssemblyReference.cache
+C:\Users\aline\source\repos\MateAcademyTest\MateAcademyTest\obj\Debug\netcoreapp2.1\MateAcademyTest.csproj.CoreCompileInputs.cache
+C:\Users\aline\source\repos\MateAcademyTest\MateAcademyTest\obj\Debug\netcoreapp2.1\MateAcademyTest.AssemblyInfoInputs.cache
+C:\Users\aline\source\repos\MateAcademyTest\MateAcademyTest\obj\Debug\netcoreapp2.1\MateAcademyTest.AssemblyInfo.cs
+C:\Users\aline\source\repos\MateAcademyTest\MateAcademyTest\obj\Debug\netcoreapp2.1\MateAcademyTest.dll
+C:\Users\aline\source\repos\MateAcademyTest\MateAcademyTest\obj\Debug\netcoreapp2.1\MateAcademyTest.pdb
